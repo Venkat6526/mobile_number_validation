@@ -1,0 +1,26 @@
+{
+  "name": "mobile_number_validation",
+  "version": "1.0.0",
+  "description": "mobile number validation based on country",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Phone number validation",
+    "Mobile number validation",
+    "Country code validation",
+    "Country code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venkat6526/mobile_number_validation.git"
+  },
+  "author": "Venkat6526",
+  "license": "ISC",
+  "dependencies": {
+    "libphonenumber-js": "^1.11.4"
+  }
+}
+
+
